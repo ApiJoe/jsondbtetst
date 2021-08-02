@@ -16,7 +16,7 @@
       "lotSize": 100
     },
     {
-      "id": 0,
+      "id": 1,
       "department": 53,
       "itemcode": "0699",
       "name": "KNITTING GUAGE",
@@ -31,7 +31,7 @@
       "lotSize": 6
     },
     {
-      "id": 0,
+      "id": 2,
       "department": 60,
       "itemcode": "",
       "name": "SUNGLASSES",
@@ -46,7 +46,7 @@
       "lotSize": 12
     },
     {
-      "id": 0,
+      "id": 3,
       "department": 55,
       "itemcode": "T4GI 313",
       "name": "GIFT BAG",
@@ -61,7 +61,7 @@
       "lotSize": 72
     },
     {
-      "id": 0,
+      "id": 4,
       "department": 59,
       "itemcode": "V4GLO 100",
       "name": "LIGHT STICK TUBE",
@@ -76,7 +76,7 @@
       "lotSize": 1
     },
     {
-      "id": 0,
+      "id": 5,
       "department": 55,
       "itemcode": "U9FA 170",
       "name": "LITTLE GIFT BOX",
@@ -121,7 +121,7 @@
       "lotSize": 0
     },
     {
-      "id": 0,
+      "id": 6,
       "department": 24,
       "itemcode": "V2GL 140",
       "name": "12\" WHITE NYLON GLOVES",
@@ -136,7 +136,7 @@
       "lotSize": 36
     },
     {
-      "id": 0,
+      "id": 7,
       "department": 51,
       "itemcode": "20469",
       "name": "WORLD MAP",
@@ -151,7 +151,7 @@
       "lotSize": 24
     },
     {
-      "id": 0,
+      "id": 220,
       "department": 5,
       "itemcode": "492761",
       "name": "B/S CH.BREAST",
@@ -166,7 +166,7 @@
       "lotSize": 1
     },
     {
-      "id": 0,
+      "id": 8,
       "department": 2,
       "itemcode": "",
       "name": "Bananas",
@@ -181,7 +181,7 @@
       "lotSize": 0
     },
     {
-      "id": 0,
+      "id": 9,
       "department": 2,
       "itemcode": "",
       "name": "Red Del Med",
@@ -196,7 +196,7 @@
       "lotSize": 0
     },
     {
-      "id": 0,
+      "id": 330,
       "department": 2,
       "itemcode": "",
       "name": "Golden Del",
@@ -211,7 +211,7 @@
       "lotSize": 0
     },
     {
-      "id": 0,
+      "id": 10,
       "department": 2,
       "itemcode": "",
       "name": "Kiwi",
@@ -226,7 +226,7 @@
       "lotSize": 0
     },
     {
-      "id": 0,
+      "id": 11,
       "department": 2,
       "itemcode": "",
       "name": "Limes",
@@ -241,7 +241,7 @@
       "lotSize": 0
     },
     {
-      "id": 0,
+      "id": 12,
       "department": 2,
       "itemcode": "",
       "name": "Lemon",
@@ -256,7 +256,7 @@
       "lotSize": 0
     },
     {
-      "id": 0,
+      "id": 440,
       "department": 2,
       "itemcode": "",
       "name": "Brocolli",
@@ -271,7 +271,7 @@
       "lotSize": 0
     },
     {
-      "id": 0,
+      "id": 550,
       "department": 2,
       "itemcode": "",
       "name": "Tomatoes, Reg/Lg",
